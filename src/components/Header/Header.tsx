@@ -1,5 +1,5 @@
 import { Cart } from "../Cart/Cart.tsx"
-import s from './Header.module.css'
+import s from "./Header.module.css"
 
 export const Header = () => {
   return (
